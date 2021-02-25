@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Real time weather</string>
+    <string name="etCity">Cairo (Please enter the city here)</string>
+
+</resources>
